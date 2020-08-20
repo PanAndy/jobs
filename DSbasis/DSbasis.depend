@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1584205420 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\main.cpp
+	<iostream>
+
+1596608467 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\shell_sort.cpp
+	<iostream>
+	<vector>
+
+1596610590 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\bubble_sort.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1596624050 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\ali.cpp
+
+1596634513 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\non_thread_safe_lazy_mode.cpp
+	<iostream>
+	<vector>
+
+1596635190 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\thread_safe_lazy_mode.cpp
+	<iostream>
+	<mutex>
+
+1596635553 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\ref_points_to_local_static.cpp
+	<iostream>
+
+1596693579 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\single_list.cpp
+	<iostream>
+
+1596721517 source:d:\mydocuments\code_repository\c++\jobs\dsbasis\bst.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<queue>
+
+1597587264 source:\\10.2.29.51\code_files\c++\jobs\validatestacksequences.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1597840712 source:\\10.2.29.51\code_files\c++\jobs\nextgreaterelement.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1597902318 source:\\10.2.29.51\code_files\c++\jobs\findmediansortedarrays.cpp
+	<iostream>
+	<vector>
+
