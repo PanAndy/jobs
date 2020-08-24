@@ -40,8 +40,11 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
-		<Unit filename="\\10.2.29.51\code_files\C++\jobs\validatestacksequences.cpp" />
 		<Unit filename="ali.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="base_conversion.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -58,6 +61,10 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="bubble_sort.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="cpp_str_int.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
@@ -91,10 +98,19 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="matrix_transpose.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="merge_sort.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="my_queue.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="my_shared_ptr.cpp" />
 		<Unit filename="non_thread_safe_lazy_mode.cpp">
 			<Option compile="0" />
 			<Option link="0" />
@@ -123,11 +139,19 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="str2int.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="test.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
 		<Unit filename="thread_safe_lazy_mode.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="verfiy_null.cpp">
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
